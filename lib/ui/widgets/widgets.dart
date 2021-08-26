@@ -1,0 +1,21 @@
+import 'dart:io';
+import 'package:flutter/material.dart';
+import 'package:holtira_reminder/helpers/helpers.dart';
+import 'package:holtira_reminder/shared/models/models.dart';
+import 'package:holtira_reminder/shared/shared.dart';
+import 'package:holtira_reminder/ui/pages/pages.dart';
+import 'dart:core';
+import 'package:sqflite/sqflite.dart';
+import 'package:flutter/cupertino.dart';
+import 'package:flutter_local_notifications/flutter_local_notifications.dart';
+import 'package:timezone/timezone.dart' as tz;
+import 'package:intl/intl.dart';
+
+part 'custom_tabbar.dart';
+part 'custom_drawer.dart';
+part 'snack_bar.dart';
+part 'notification.dart';
+part 'reminder_card.dart';
+part 'reminder_list.dart';
+part 'calendar.dart';
+part 'calendar_day.dart';

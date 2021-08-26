@@ -1,0 +1,167 @@
+[
+    {
+       "id":1,
+       "name":"Jahe",
+       "picture":"assets/images/obat_jahe.jpg",
+       "category":"Tanaman Obat",
+       "description":"Jahe (zingiber officinale) merupakan batang semu dengan tinggi 30 hingga 100 cm. Akarnya berbentuk rimpang dengan daging akar berwarna kuning hingga kemerahan dengan bau menyengat. Daun menyirip dengan panjang 15 hingga 23 mm dan panjang 8 hingga 15 mm. Tangkai daun berbulu halus.\nWaktu Panen\t: 3 - 4 Bulan",
+       "water":"250 ml",
+       "temperatur":"20-35° C",
+       "light":"Tinggi",
+       "tips":"Siram jahe setiap hari dengan air secukupnya. Air tidak boleh sampai menggenang agar jahe tidak busuk. Oleh karena itu, pastikan pot yang kamu gunakan memiliki sistem drainase yang baik."
+    },
+    {
+       "id":2,
+       "name":"Kencur",
+       "picture":"assets/images/obat_kencur.jpg",
+       "category":"Tanaman Obat",
+       "description":"Kencur atau cekur (Kaempferia galanga) adalah tanaman yang memiliki kulit berwarna putih, coklat muda hingga coklat tua. Akar serabut umumnya tumbuh dari rimpang. Bentuk rimpang umumnya bulat, bagian tengah berwarna putih dan pinggirnya coklat kekuningan.\nWaktu panen\t: 6 - 10 Bulan",
+       "water":"250 ml",
+       "temperatur":"25-30° C",
+       "light":"Cukup",
+       "tips":"Perawatan tanaman kencur cukup dengan memastikan bahwa tanahnya cukup lembab dan tanaman terbebas dari gulma dan hama. Penyiraman dilakukan rutin supaya tanah tidak kering, dan pastikan penyiraman dilakukan secukupnya alias tidak sampai membuat tanahnya becek."
+    },
+    {
+       "id":3,
+       "name":"Lidah Buaya",
+       "picture":"assets/images/obat_lidah_buaya.jpg",
+       "category":"Tanaman Obat",
+       "description":"Lidah buaya (Aloe vera) adalah tumbuhan tanpa batang atau berbatang pendek, dengan tinggi hingga 60–100 cm dan dapat berkembang biak dengan tunas. Dedaunannya berdaging tebal, berwarna hijau atau hijau keabuan, dan sebagian varietas memiliki bintik putih pada permukaan batangnya.\nWaktu panen\t: 8 - 12 Bulan",
+       "water":"250 ml",
+       "temperatur":"16-33° C",
+       "light":"Cukup",
+       "tips":"Ketika menyiram tanaman lidah buaya, pastikan tanah sepenuhnya basah dan air bisa mengalir bebas dari tanah. Jika terjadi penumpukan atau terlalu banyak air, daun lidah buaya dapat menguning dan mati. Jangan memupuk lidah buaya secara berlebihan untuk menghindari kerusakan yang tidak diinginkan."
+    },
+    {
+       "id":4,
+       "name":"Mengkudu",
+       "picture":"assets/images/obat_mengkudu.jpg",
+       "category":"Tanaman Obat",
+       "description":"Mengkudu (Morinda citrifolia) adalah tanaman yang tumbuh di daerah dataran rendah hingga pada ketinggian 1500 m. Tinggi pohon mengkudu mencapai 3–8 m, memiliki bunga bongkol berwarna putih. Buahnya merupakan buah majemuk, yang masih muda berwarna hijau mengkilap dan memiliki totol-totol, dan ketika sudah tua berwarna putih dengan bintik-bintik hitam.\nWaktu panen\t: 2 - 3 Tahun",
+       "water":"250 ml",
+       "temperatur":"22-30° C",
+       "light":"Cukup",
+       "tips":"Penyiraman pada tanaman mengkudu dilakukan dua kali dalam satu hari dengan tujuan agar tanah tidak mudah kering. Penyulaman adalah pergantian tanaman mati dengan tanaman yang baru. Penyiangan dilakukan dengan cara membersihkan gulma dan tanaman yang mengganggu tanaman mengkudu. Sementara, pemupukan mengkudu dilakukan sejak awal 3 bulan dan diulangi setiap 6 bulan. Pupuk yang digunakan adalah pupuk kandang dan pupuk buatan per pohon 1: 1."
+    },
+    {
+       "id":5,
+       "name":"Temulawak",
+       "picture":"assets/images/obat_temulawak.jpg",
+       "category":"Tanaman Obat",
+       "description":"Temulawak (Curcuma zanthorrhiza) adalah tanaman yang batangnya tidak berkayu dan berwarna hijau, tersusun dari pelepah daun yang tumpeng tindih. Daunnya berwarna hijau atau coklat dengan panjang sekitar 31 cm – 84 cm dan lebar 10 cm – 18 cm. Bunga tanaman ini punya bentuk yang unik berwarna kuning tua.\nWaktu panen\t: 9 - 24 Bulan",
+       "water":"250 ml",
+       "temperatur":"19-30° C",
+       "light":"low",
+       "tips":"Penyiraman pada tanaman temulawak dilakukan dua kali dalam satu hari yaitu pada pagi dan sore hari. Lakukan penyulaman atau penggantian tanaman yang mati atau mengalami gagal tumbuh. Lakukan Penyemprotan pestisida untuk mencegah atau menanggulangi hama serta penyakit yang muncul."
+    },
+    {
+       "id":6,
+       "name":"Cabai",
+       "picture":"assets/images/sayur_cabe.jpg",
+       "category":"Tanaman Sayuran",
+       "description":"Cabai (Capsicum annuum L.) atau cabai merah atau lombok adalah buah dan tumbuhan anggota genus Capsicum. Buahnya dapat digolongkan sebagai sayuran maupun bumbu, tergantung bagaimana digunakan. Sebagai bumbu, buah cabai yang pedas sangat populer di Asia Tenggara sebagai penguat rasa makanan. Bagi seni masakan Padang, cabai bahkan dianggap sebagai bahan makanan pokok ke sepuluh (alih-alih sembilan). Sangat sulit bagi masakan Padang dibuat tanpa cabai.\nWaktu Panen\t: 80-90 Hari Setelah Tanam (HST)",
+       "water":"250 ml",
+       "temperatur":"16-23° C",
+       "light":"low",
+       "tips":"Jika cuaca panas, tanaman cabai perlu disiram dua kali sehari, jika curah hujan tinggi penyiraman dapat dilakukan secara kondisional, karena apabila terlalu banyak disiram bunga atau buah cabai akan mudah rontok.\nSalah satu pencegahan hama dapat dilakukan dengan menyemprotkan pestisida saat sore menjelang malam. Namun apabila cabai sudah mulai membusuk, coba berikan obat serta tambahan pupuk untuk membuat cabai kembali segar."
+    },
+    {
+       "id":7,
+       "name":"Kangkung",
+       "picture":"assets/images/sayur_kangkung.jpg",
+       "category":"Tanaman Sayuran",
+       "description":"Kangkung (Ipomoea aquatica)adalah tumbuhan yang termasuk jenis sayur-sayuran dan ditanam sebagai makanan. Kangkung banyak dijual di pasar-pasar. Kangkung banyak terdapat di kawasan Asia dan merupakan tumbuhan yang dapat dijumpai hampir di mana-mana terutama di kawasan berair.\nWaktu Panen\t: 30-40 Hari",
+       "water":"250 ml",
+       "temperatur":"20-30° C",
+       "light":"Cukup",
+       "tips":"Pemupukan tanaman kangkung cukup dilakukan pada saat awal penanaman saja. Namun jika tanaman kangkung terlihat kurang subur atau berwarna hijau pudar, maka kamu perlu memberikan pupuk tambahan dengan memberikan pupuk organik yang kaya akan nitrogen, bisa menggunakan kotoran ayam yang telah matang lalu dicampur dengan sekam atau kompos kaya nitrogen.\nPada musim kering  perlu melakukan penyiraman secara rutin setiap pagi dan sore hari. Jika tanaman kangkung terlihat layu dan menguning di siang hari,  juga perlu melakukan penyiraman dengan intensitas yang cukup. Kurangnya intensitas penyiraman air di siang hari bisa membuat tanaman kangkung mati."
+    },
+    {
+       "id":8,
+       "name":"Mentimun",
+       "picture":"assets/images/sayur_mentimun.jpg",
+       "category":"Tanaman Sayuran",
+       "description":"Mentimun (Cucumis sativus) memiliki Daun tunggal, letak berseling, bertangkai panjang, bentuknya bulat telur lebar, bertaju 3-7, dengan pangkal berbentuk jantung, ujung runcing, tepi bergerigi. Panjang 7-18 cm, lebar 7-15 cm, warnanya hijauBunganya ada yang jantan berwarna putih kekuningan, dan bunga betina yang bentuknya seperti terompet.\nWaktu Panen\t: 75-85 Hari",
+       "water":"250 ml",
+       "temperatur":"27° C",
+       "light":"low",
+       "tips":"Penyiraman dilakukan rutin setiap hari sampai umur tanaman 2-3 minggu setelah pindah tanam, pada umur selanjutnya penyiraman dapat dilakukan 2-3 hari sekali. Untuk pemupukan susulan dilakukan saat tanaman berusia 3 minggu setelah tanam, pupuk yang digunakan adalah UREA."
+    },
+    {
+       "id":9,
+       "name":"Tomat",
+       "picture":"assets/images/sayur_tomat.jpg",
+       "category":"Tanaman Sayuran",
+       "description":"Tomat (Solanum lycopersicum) memiliki Cabang yang banyak, berambut, tebal pada buku-bukunya, dan memiliki bau yang sangat kuat dengan warna hijau keputihan. Tomat memiliki daun yang banyak. Bentuknya menyirip, ada yang bundar telur, ada pula yang memanjang.\nWaktu Panen\t: 70 - 80 Hari",
+       "water":"250 ml",
+       "temperatur":"18-24° C",
+       "light":"Cukup",
+       "tips":"Gunakan tanah yang tidak terlalu padat agar air mengalir dengan baik. Direkomendasikan campuran tanah yang baik dengan bahan organik tambahan. Tempatkan pot di tempat yang cerah dengan sinar matahari penuh selam 6-8 jam sehari. Siram tanaman tomat di pagi hari. Ini memberi tanaman kelembaban yang dibutuhkan untuk melewati hari yang panas. Hindari menyiram di sore atau di malam hari."
+    },
+    {
+       "id":10,
+       "name":"Wortel",
+       "picture":"assets/images/sayur_wortel.jpg",
+       "category":"Tanaman Sayuran",
+       "description":"Wortel (Daucus carota L) merupakan jenis tumbuhan perdu atau semak yang tumbuh dengan tegak dan ketinggiaanya bisa mencapai 30 sampai 100 cm. Daun wortel berwarna hijau dan tergolong sebagai daun majemuk dan menyirip. Akar pada wortel merupakan umbi, cirinya memanjang seperti kerucut dengan diameter umum antara 3 sampai 5 sentimeter. Warna umbi ini paling umum adalah jingga kekuningan, namun ada pula umbi wortel yang berwarna merah, ungu, kuning bahkan biru.\nWaktu Panen\t: 100 hari",
+       "water":"250 ml",
+       "temperatur":"15-21° C",
+       "light":"Cukup",
+       "tips":"Usahakan tanah yang digunakan cukup dalam ( sekitar 30 sampai 40 cm ), jika menggunakan pot maka tinggi pot haruslah memiliki tinggi tersebut. Tanah yang digunakan adalah tanah yang gembur dan memiliki PH normal. Tanah yang gembur dapat mencegah agar wortel tidak menjadi kerdil. Beri pupuk sekitar 5 atau 6 minggu setelah ditanam dan berikan setiap 2 minggu sekali. pangkas daun wortel saat pertama mencapai tinggi sekitar 3 cm. Berikan cairan anti jamur jika terkena hama jamur."
+    },
+    {
+       "id":11,
+       "name":"Kembang Sepatu",
+       "picture":"assets/images/hias_kembang_sepatu.jpg",
+       "category":"Tanaman Hias",
+       "description":"Kembang sepatu (Hibiscus rosa-sinensis L.) adalah tanaman semak suku Malvaceae yang berasal dari Asia Timur dan banyak ditanam sebagai tanaman hias di daerah tropis dan subtropis. Bunga besar, berwarna merah dan tidak berbau. Bunga dari berbagai kultivar dan hibrida bisa berupa bunga tunggal (daun mahkota selapis) atau bunga ganda (daun mahkota berlapis) yang berwarna putih hingga kuning, oranye hingga merah tua atau merah jambu.",
+       "water":"250 ml",
+       "temperatur":"15-32° C",
+       "light":"Cukup",
+       "tips":"Lakukan penyiraman secara rutin namun secukupnya saja. Selain penyiraman, lakukan juga pemupukan agar nutrisi yang dibutuhkan untuk sebuah pertumbuhan tanaman terpenuhi. Pupuk yang digunakan dapat berupa pupuk kompos atau pupuk NPK yang diberikan secara berkala.\nLakukan pemangkasan pada ranting atau dahan tanaman dilakukan guna memacu munculnya bunga yang lebih banyak. Apabila ada bagian tanaman yang mati atau rusak, segera dipangkas agar tunas baru cepat tumbuh.\nUntuk mencegah atau mengendalikan hama bisa menyemprotkan insektisida sesuai dosis secara berkala."
+    },
+    {
+       "id":12,
+       "name":"Lidah Mertua",
+       "picture":"assets/images/hias_lidah_mertua.jpg",
+       "category":"Tanaman Hias",
+       "description":"Tanaman Lidah Mertua (Sansevieria) berasal dari Afrika di bagian Nigeria Timur. Tanaman Lidah Mertua dapat tumbuh dengan baik meskipun sedikit mendapatkan sinar matahari dan air. Oleh karena itu tanaman Lidah Mertua cocok ditanam di dalam ruangan (indoor) maupun di luar ruangan (outdoor).",
+       "water":"250 ml",
+       "temperatur":"10-15° C",
+       "light":"Rendah",
+       "tips":"Untuk asupan air, jangan berikan secara berlebihan pada tanaman lidah mertua. Biarkan tanah sedikit mengering sebelum kamu melakukan penyiraman. Kamu bisa menggunakan tanah pot kaktus atau menambahkan pasir kasar ke tanah pot biasa, untuk menyediakan drainase yang dibutuhkan tanaman ini.\nLetakkan tanaman ini di dekat jendela yang yang memungkinkan adanya sinar matahari yang masuk. Atau jika tidak memungkinkan, pastikan untuk menjemurnya setiap dua hari sekali. Tapi, jangan menjemurnya terlalu lama, karena lidah mertua mudah terbakar."
+    },
+    {
+       "id":13,
+       "name":"Lily",
+       "picture":"assets/images/hias_lily.jpg",
+       "category":"Tanaman Hias",
+       "description":"Bunga bakung yang besar memiliki tiga daun bunga, acapkali wangi, dan terdapat dalam berbagai warna dari putih, kuning, jingga, merah muda, merah, ungu, warna tembaga, hingga hampir hitam. Terdapat pula corak berupa bintik-bintik.",
+       "water":"250 ml",
+       "temperatur":"13–17° C",
+       "light":"Cukup",
+       "tips":"Lakukan penyiraman secara rutin pada pagi dan sore hari agar tidak layu. Penyiraman ini dilakukan secukupnya saja hingga tanah terlihat lembab saja karena jika terlalu banyak air akan menyebabkan umbi tanaman membusuk.\nLakukan penyiangan pada gulma yang ada disekitar tanaman bunga lily di pot/polybag. selain itu, lakukan pula pemupukan secara berkala untuk menjaga unsur hara dalam tanah."
+    },
+    {
+       "id":14,
+       "name":"Mawar",
+       "picture":"assets/images/hias_mawar.jpg",
+       "category":"Tanaman Hias",
+       "description":"Mawar (Rosa) adalah suatu jenis tanaman semak dari genus Rosa sekaligus nama bunga yang dihasilkan tanaman ini. Mawar liar terdiri dari 100 spesies lebih, kebanyakan tumbuh di belahan bumi utara yang berudara sejuk. Spesies mawar umumnya merupakan tanaman semak yang berduri atau tanaman memanjat yang tingginya bisa mencapai 2 sampai 5 meter. Walaupun jarang ditemui, tinggi tanaman mawar yang merambat di tanaman lain bisa mencapai 20 meter.\nWaktu Tumbuh\t: 7-21 Hari",
+       "water":"200 ml",
+       "temperatur":"18-26° C",
+       "light":"Tinggi",
+       "tips":"Jangan sampai menyiram terlalu banyak hingga air menjadi genangan di dalam pot. Hal ini dapat menghambat dan membuat tanaman menjadi busuk karena kebanyakan air. Siram bunga mawar melalui tanah, karena bunga dan daun bunga mawar sangat rentan terhadap kekeringan. Siram sehari sekali disaat musim hujan dan dua hari sekali setiap pagi dan sore ketika musim panas. Jika hujan turun tidak berhenti, maka hentikan penyiraman karena sudah tergantikan dengan air hujan. Hanya saja lebih baik dibilas bagian daunnya dengan cara menyemprotkan air dengan halus dan lembut. Hal ini dilakukan supaya tekstur daun tidak menjadi rusak."
+    },
+    {
+       "id":15,
+       "name":"Monstera",
+       "picture":"assets/images/hias_monstera.jpg",
+       "category":"Tanaman Hias",
+       "description":"Monstera deliciosa atau biasa disebut dengan Janda Bolong merupakan tanaman rambat yang berasal dari hutan rimba yang terletak di wilayah Meksiko dan Guatemala. Monstera memiliki ukuran daun yang besar dan berbentuk hati. Warnanya hijau pekat dan permukaannya mengkilap dengan lubang-lubang yang ada pada helai daunnya yang menjari.",
+       "water":"250 ml",
+       "temperatur":"15° C",
+       "light":"Rendah",
+       "tips":"Tanaman monstera tidak terlalu membutuhkan cahaya. Tanaman monstera yang terlalu banyak terkena cahaya warna daunnya akan berubah menjadi kuning keemasan. Tidak perlu menyiram tanaman ini secara rutin. Semakin sering disiram maka tanaman ini bisa membusuk seperti tanaman kaktus. Pastikan untuk memberikan pupuk pada media tanam untuk mendapatkan daun monstera yang berwarna cerah dan indah. Sesuaikanlah jumlah pupuk yang diberikan agar tanah tidak menjadi terlalu asam dan merusak tanaman yang indah."
+    }
+ ]
